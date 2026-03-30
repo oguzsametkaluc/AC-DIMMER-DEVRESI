@@ -7,7 +7,9 @@ AC Dimmer devresinde 220V AC şebeke gerilimi öncelikle bir transformatör arac
 
 
 ## Görseller
-![osk 4807](https://github.com/user-attachments/assets/aa90e45e-de22-4ef7-a48b-bc9ddd9477bb)
-![osk 4806](https://github.com/user-attachments/assets/6f41ef61-f31b-4e46-9c58-922ecf0953f9)
-<img width="792" height="580" alt="ASİL 1" src="https://github.com/user-attachments/assets/58daa5b2-ea8a-4ac7-89a4-ff21995b9607" />
-![osk 4808](https://github.com/user-attachments/assets/d0247aa0-d215-4f84-9ce9-738f5a6fc546)
+<img width="792" height="580" alt="ASİL 1" src="https://github.com/user-attachments/assets/1f0ae57a-779f-4905-8d47-00e9959b2246" />
+![Uploading osk 4807.jpg…]()
+![osk 4806](https://github.com/user-attachments/assets/f823f5d7-1f97-4ac2-ba07-9316c4f15ada)
+![osk 4808](https://github.com/user-attachments/assets/d5509900-8879-41bf-8813-1ee97dff33bd)
+
+
